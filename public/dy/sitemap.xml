@@ -2,23 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mate-9a1a8.web.app/dy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mate-9a1a8.web.app/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mate-9a1a8.web.app/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="dy"
-                href="https://mate-9a1a8.web.app/dy/"
-                />
-  </url><url>
     <loc>https://mate-9a1a8.web.app/dy/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +17,23 @@
                 rel="alternate"
                 hreflang="dy"
                 href="https://mate-9a1a8.web.app/dy/categories/"
+                />
+  </url><url>
+    <loc>https://mate-9a1a8.web.app/dy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mate-9a1a8.web.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mate-9a1a8.web.app/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="dy"
+                href="https://mate-9a1a8.web.app/dy/"
                 />
   </url><url>
     <loc>https://mate-9a1a8.web.app/dy/tags/</loc>
