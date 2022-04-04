@@ -8,7 +8,7 @@
   "scripts": {
     "start": "hugo server --disableFastRender",
     "start-examplesite": "hugo server -s exampleSite --themesDir=../.. --disableFastRender",
-    "build": "NODE_ENV=production hugo -D --gc"
+    "build": "hugo -D --gc"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
