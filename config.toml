@@ -1,7 +1,9 @@
-baseURL = 'https://mate-9a1a8.web.app'
+baseURL = 'https://mate-111.web.app'
 metaDataFormat = "yaml"
 title = "Mate"
 theme = "blist"
+googleAnalytics = "G-BWNTC3FYDX"
+
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
@@ -13,8 +15,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Elevate Yourself!"
       introSubtitle = "Mate means 'I hear you', listen to your body and check out the posts below"
-      introPhoto = "/images/gye_nyame.png"
-      logo = "/images/matemasie.png"
+      introPhoto = "/images/matemasie-dark.png"
+      logo = "/images/matemasie-dark.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -26,13 +28,8 @@ DefaultContentLanguageInSubdir = true
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
-
-    [[languages.en.menu.main]]
         name = "Top Post"
-        url = "/en/blog/emoji-support/"
+        url = "/en/blog/balancedBlackMen/"
         weight = 4
 
   [languages.de]
@@ -71,7 +68,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  enableSearch = false
 
   # Custom copyright - optional
   copyright = "Copyright © 2021 - Kojo Nimako · All rights reserved"
@@ -84,6 +81,8 @@ DefaultContentLanguageInSubdir = true
 
   # The page bundle that is shown on the front page
   frontBundle = "blog"
+
+
 
 
 [params.homepage.social]
