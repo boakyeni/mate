@@ -1,5 +1,5 @@
 baseurl = "https://mate-111.web.app/"  # Include trailing slash
-title = "Newsroom"
+title = "Mate"
 theme = "newsroom"
 author = "Mate"
 copyright = "Copyright © 2022, Mate; all rights reserved."
