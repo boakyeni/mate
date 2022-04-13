@@ -7,12 +7,12 @@ tags = [
     "hugo",
     "development",
 ]
-date = "2014-04-02"
+date = "2022-04-01"
 categories = [
     "Development",
     "golang",
 ]
-image = "stuck.jpg"
+image = "beseseka.png"
 +++
 
 ## Step 1. Install Hugo

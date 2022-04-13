@@ -1,7 +1,7 @@
 ---
-date: 2014-03-10
+date: 2022-03-10
 title: Body Care Products
-image: 'speakers.jpg'
+image: 'dwannini.jpeg'
 ---
 
 ## Move static content to `static`

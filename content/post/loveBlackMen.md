@@ -8,12 +8,12 @@ tags = [
 "themes",
 "development",
 ]
-date = "2014-04-02"
+date = "2022-04-02"
 categories = [
 "Development",
 "golang",
 ]
-image = "artist.jpg"
+image = "sankofa-heart.png"
 +++
 
 Hugo uses the excellent [Go](https://golang.org/) [html/template](https://golang.org/pkg/html/template/) library for

@@ -1,8 +1,8 @@
 ---
 author: Michael Henderson
-date: 2014-09-28
+date: 2022-04-04
 title: Books for the Spiritual Black Man
-image: boy.jpg
+image: gyeNyame.jpg
 ---
 
 ## Introduction

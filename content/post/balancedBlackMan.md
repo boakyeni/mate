@@ -1,13 +1,13 @@
 +++
 author = "Hugo Authors"
 title = "Books for Balanced Black Men"
-date = "2019-03-05"
+date = "2022-04-05"
 description = "Guide to emoji usage in Hugo"
 tags = ["emoji"]
-image = "artist.jpg"
+image = "osramNeNsoroma.png"
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways.
+*Osram Ne Nsoroma* or 'moon and star' is the Adinkra symbol for *harmony*
 <!--more-->
 
 The `[emojify](https://gohugo.io/functions/emojify/)` function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
