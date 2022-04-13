@@ -1,7 +1,7 @@
 ---
 author: Michael Henderson
 date: 2014-09-28
-title: Creating a New Theme
+title: Books for the Spiritual Black Man
 image: boy.jpg
 ---
 
