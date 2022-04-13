@@ -1,7 +1,5 @@
 {
   "projects": {
-    "default": "mate-111",
-    "hopeful": "mate-111"
-  },
-  "targets": {}
+    "default": "mate-111"
+  }
 }
