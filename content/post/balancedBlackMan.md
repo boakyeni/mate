@@ -36,6 +36,16 @@ Malcolm X had to have been heavy or they wouldn't of did him so dirty. This one 
 > If there was any one man who articulated the anger, the struggle, and the beliefs of African Americans in the 1960s, that man was Malcolm X. His *Autobiography* is now an established classic of modern America, a book that expresses like none other the crucial truth about our violent times.
 This books is the result of a unique collaboration between Malcolm X and Alex Haley, whose own search for his African past, inspired by his encounter with Malcolm X, led him to write the celebrated bestseller *Roots*.
 
+### 3. Akbar Papers in African Psychology 
+
+Much of western psychology is based off of Sigmund Freud's work and that man did not like Black people :( Which is why we need Black scientists studying psychology as primary researchers, instead of trying to build off western psychology. If you want to know yourself better and thus have better relationships and quality of life, know Na'im Akbar's work. You can find his book here: [*Akbar Papers in African Psychology*](https://malikbooks.com/shop/ols/products/akbar-papers-in-african-psychology). I strongly recommend this for anyone with children or ever planning to have children.
+
+![Akbar Books](/images/akbarCover.png)
+
+#### Back Cover:
+
+> Coming Soon! Book is out on loan.
+
 ***
 
 
