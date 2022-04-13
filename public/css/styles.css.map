@@ -1,20 +1,20 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/kojo/apps/hugo/mate",
+	"sourceRoot": "/Users/kojo/apps/Hugo/mate",
 	"sources": [
 		"themes/newsroom/assets/sass/main.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_variables.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_fonts.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_mixins.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_animate.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_base.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_components.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_nav.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_posts.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_utils.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_syntax.sass",
-		"../../hugo/mate/themes/newsroom/assets/sass/_custom.sass"
+		"themes/newsroom/assets/sass/_variables.sass",
+		"themes/newsroom/assets/sass/_fonts.sass",
+		"themes/newsroom/assets/sass/_mixins.sass",
+		"themes/newsroom/assets/sass/_animate.sass",
+		"themes/newsroom/assets/sass/_base.sass",
+		"themes/newsroom/assets/sass/_components.sass",
+		"themes/newsroom/assets/sass/_nav.sass",
+		"themes/newsroom/assets/sass/_posts.sass",
+		"themes/newsroom/assets/sass/_utils.sass",
+		"themes/newsroom/assets/sass/_syntax.sass",
+		"themes/newsroom/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"@import \"variables\";\n@import \"fonts\";\n@import \"mixins\";\n@import \"animate\";\n@import \"base\";\n@import \"components\";\n@import \"nav\";\n@import \"posts\";\n@import \"utils\";\n@import \"syntax\";\n@import \"custom\";\n",

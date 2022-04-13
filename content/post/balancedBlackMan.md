@@ -10,88 +10,32 @@ image = "osramNeNsoroma.png"
 *Osram Ne Nsoroma* or 'moon and star' is the Adinkra symbol for *harmony*
 <!--more-->
 
-The `[emojify](https://gohugo.io/functions/emojify/)` function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+***
 
-To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+### 1. *Midnight: A Ganster Love Story* by Sister Souljah
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+
+Sister Souljah is the most underrated writer of the 21st century. Her writing is powerful and real and exactly what a lost soul needs in our concrete society. [*Midnight: A Ganster Love Story*](https://www.esowonbookstore.com/book/9781416545361) will help you find balance and strength through integrity and self-worth. 
+
+![midnight book cover](/images/midnight.png)
+
+#### Back Cover:
+
+> Midnight has a heart, a powerful mind, and is a fierce fighter. "I don't love my guns, but I need 'em," he says, willing to do anything to defend his family, the women he loves, and his business and property. African born, Midnight is the son of a wealthy Islamic African family. When his father's empire is attacked, he and his mother come to America and end up living in the Brooklyn projects. 
+This is the tremendously moving story of Midnight, Ricky Santiaga's strong, humble, and dangerously attractive lieutenant whom we first met in the bestselling novel *The Coldest Winter Ever*. In the pages of this prequel, Sister Souljah, the number one author of the hip-hop generation, sweeps readers from continent to continent. You will meet characters whom you've never encountered before. The intricate storytelling will move your heart soul, and change your life forever.
+
+### 2. The Autobiography of Malcolm X: As Told By Alex Haley
+
+Malcolm X had to have been heavy or they wouldn't of did him so dirty. This one is a page turner for sure and will keep you on the edge of your seat. It is the number 1 seller on Amazon, which is the exact opposite of what Malcolm X would of wanted. Instead purchase the book [*The Autobiography of Malcolm X: As Told By Alex Haley*](https://malikbooks.com/shop/ols/products/the-autobiography-of-malcolm-x-as-told-to-alex-haley) from a Black-owned bookstore such as the one in the link or any of these [Black-owned bookstores](https://nonamebooks.com/Bookstores).
+
+![Autobiography of Malcolm X Cover](/images/autoMalcX.png)
+
+#### Back Cover:
+
+> If there was any one man who articulated the anger, the struggle, and the beliefs of African Americans in the 1960s, that man was Malcolm X. His *Autobiography* is now an established classic of modern America, a book that expresses like none other the crucial truth about our violent times.
+This books is the result of a unique collaboration between Malcolm X and Alex Haley, whose own search for his African past, inspired by his encounter with Malcolm X, led him to write the celebrated bestseller *Roots*.
 
 ***
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
 
-### Inline CSS
-
-```html
-<style>
-  .emojify {
-    font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-    font-size: 2rem;
-    vertical-align: middle;
-  }
-  @media screen and (max-width:650px) {
-    .nowrap {
-      display: block;
-      margin: 25px 0;
-    }
-  }
-</style>
-```
-
-### Javascript
-
-```javascript
-function createEl(element) {
-  return document.createElement(element);
-}
-
-function elem(selector, parent = document){
-  let elem = parent.querySelector(selector);
-  return elem != false ? elem : false;
-}
-
-let navBar = elem(`.${bar}`);
-let nav = elem('.nav-body');
-let open = 'nav-open';
-let exit = 'nav-exit';
-let drop = 'nav-drop';
-let pop = 'nav-pop';
-let navDrop = elem(`.${drop}`);
-let hidden = 'hidden';
-
-```
-
-### Swift
-
-```swift
-class Person {
-  var residence: Residence?
-}
-
-class Residence {
-  var rooms = [Room]()
-  var numberOfRooms: Int {
-    return rooms.count
-  }
-
-  
-  subscript(i: Int) -> Room {
-    get {
-      return rooms[i]
-    }
-    set {
-      rooms[i] = newValue
-    }
-  }
-  
-  func printNumberOfRooms() {
-    print("The number of rooms is \(numberOfRooms)")
-  }
-
-  var address: Address?
-
-}
-```

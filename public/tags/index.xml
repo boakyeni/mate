@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Mate</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2022, Mate; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mate-111.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mate-111.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>emoji</title>
       <link>https://mate-111.web.app/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/tags/emoji/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>development</title>
       <link>https://mate-111.web.app/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/tags/development/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>go</title>
       <link>https://mate-111.web.app/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/tags/go/</guid>
       <description></description>
@@ -37,25 +37,16 @@
     <item>
       <title>golang</title>
       <link>https://mate-111.web.app/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://mate-111.web.app/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://mate-111.web.app/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>templates</title>
       <link>https://mate-111.web.app/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/tags/templates/</guid>
       <description></description>
@@ -64,9 +55,18 @@
     <item>
       <title>themes</title>
       <link>https://mate-111.web.app/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://mate-111.web.app/tags/hugo/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mate-111.web.app/tags/hugo/</guid>
       <description></description>
     </item>
     
