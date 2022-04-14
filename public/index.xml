@@ -13,7 +13,8 @@
       <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/about/</guid>
-      <description>We are avid readers as well as Black men who want to share our favorite and most powerful resource ~ knowledge</description>
+      <description>We are avid readers as well as Black men who created this mindfulness blog to share our favorite and most powerful resource ~ knowledge
+Our brand Mate means &amp;ldquo;I hear you&amp;rdquo; in Twi the Ashanti language</description>
     </item>
     
     <item>
@@ -31,8 +32,16 @@
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/post/spiritualblackman/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>&lt;p&gt;Center yourself with these eye opening books&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Books for Black youth transitioning into manhood</title>
+      <link>https://mate-111.web.app/post/financeblackman/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mate-111.web.app/post/financeblackman/</guid>
+      <description>&lt;p&gt;This is the flashlight in a dark room&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,33 +50,17 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/post/loveblackmen/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
+      <description>&lt;p&gt;This article is for Black men looking to enhance their masculine psyche&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Books for the Financially Centered Black Man</title>
-      <link>https://mate-111.web.app/post/financeblackman/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mate-111.web.app/post/financeblackman/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Body Care Products</title>
+      <title>Great Black Stories</title>
       <link>https://mate-111.web.app/post/bodycareproducts/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mate-111.web.app/post/bodycareproducts/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Explore the mind opening stories of our brothers and sisters. From current Haitian immigration to Detroit or European invasion of West African villages, these captivating stories are a must read for all Black people.
+ 1. American Street by Ibi Zoboi 2. Things Fall Apart by Chinua Achebe 3. Midnight: A Ganster Love Story by Sister Souljah This is book one in a three book series. Sister Souljah is the most underrated writer of the 21st century.</description>
     </item>
     
   </channel>

@@ -50,7 +50,16 @@ Much of western psychology is based off of Sigmund Freud's work and that man did
 
 Not only is this an amazing book on psychology. It also a great self help book, that we strongly recommended for any one who has not been feeling as mentally strong lately. Even if that is not you this book is eye opening to the many intricate aspects of the system affecting our psychology that we are unaware of. Na'im Akbar's work is the theory, and Wilson's work explains healthy practices. Find it here: [*The Psychology of Self-Hatred and Self-Defeat*](https://malikbooks.com/shop/ols/products/psychology-of-self-hatred-and-self-defeat-towards-a-reclamation-of-the-afrikan-mind-paperbackby-amos-n-wilson)
 
+![Book Cover Image](/images/selfDefeatCover.png)
+
+#### Back Cover:
+
+> Why do the oppressed react to frustration with apathy, anger, regression, denial, color-blindness, reality distortion, narcissism, falsified consciousness, false morality, intellectualization, "acting white" syndrome as a barrier to excellence of achievement, lack of trust in self and community, inculcated belief in innate White intellectual superiority, and above all, insanely phantasmagorical identification with the aggressor?\
+Gifted with a searing acuity, Wilson scrutinizes the development of the black mind as it emerged through the western or American experience conditioned to serve other than its self or group interests. For 20 hours over a five week period in 1987 he scours issues seminal to the understanding of who we are, why are we the way we are, and for whom and how we were conditioned to work against our self-interests and moreover our liberation. Why we not know facts for what they say and what they are, see and discern implications, are attributes mentally impaired or quite often underdeveloped in black children and black people. These and other questions laid bare, leave the reader breathless. Asound analysis has built into it its own suggested solutions. Wilson tasks himself its reveal by proffering inferences and choices rarely seen. A grueling long-awaited addition to the Wilsonian cannon, before us unfurls a mandatorily interrogative exposition.
+
 ### 5. Assata: An Autobiography by Assata Shakur
+
+![Assata Book Cover](/images/assataCover.png)
 
 [*Assata: An Autobiography by Assata Shakur*](https://malikbooks.com/shop/ols/products/assata-an-autobiography-by-assata-shakur)
 
@@ -58,7 +67,15 @@ Not only is this an amazing book on psychology. It also a great self help book, 
 
 This book is the most powerful book on the list. It will change you so make sure that you are ready. Elijah Muhammad was extremely particular with his words and made explicit requests to never alter a word of his original print. 60 years later and predictions from this book are still coming true. It will not all make sense at first, but it is all true. Again make sure to buy Black or POC when looking for [*Message to the Blackman in America*](https://malikbooks.com/shop/ols/products/message-to-the-blackman-in-america-by-elijah-muhammad). Here's a link to other [Black-owned bookstores](https://nonamebooks.com/Bookstores).
 
+![Message to the Blackman in America Cover](/images/mttbCover.png)
 
-***
+#### Back Cover: 
+
+> "...Most Powerful Blackman in America"\
+\
+"Elijah Muhammad has been able to do what generations of welfare workers and committees and resolutions and reports and housing projects and playgrounds have failed to do...He has done all these things" ~ James Baldwin in his book, **The Fire Next Time**
+
+
+
 
 

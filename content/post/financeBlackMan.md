@@ -1,13 +1,13 @@
 +++
-title = "Books for the Financially Centered Black Man"
+title = "Books for Black youth transitioning into manhood"
 description = ""
 tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
+    "black",
+    "men",
+    "manhood",
+    "youth",
 ]
-date = "2022-04-01"
+date = "2022-04-03"
 categories = [
     "Development",
     "golang",
@@ -15,80 +15,21 @@ categories = [
 image = "beseseka.png"
 +++
 
-## Step 1. Install Hugo
 
-Go to [Hugo releases](https://github.com/spf13/hugo/releases) and download the
-appropriate version for your OS and architecture.
+This is the flashlight in a dark room    
+<!--more-->
 
-Save it somewhere specific as we will be using it in the next step.
 
-More complete instructions are available at [Install Hugo](https://gohugo.io/getting-started/installing/)
+***
 
-## Step 2. Build the Docs
+### 1. Message to the Blackman in America by Elijah Muhammad
 
-Hugo has its own example site which happens to also be the documentation site
-you are reading right now.
+This book is the most powerful book on the list. It will change you so make sure that you are ready. Elijah Muhammad was extremely particular with his words and made explicit requests to never alter a word of his original print. 60 years later and predictions from this book are still coming true. It will not all make sense at first, but it is all true. Again make sure to buy Black or POC when looking for [*Message to the Blackman in America*](https://malikbooks.com/shop/ols/products/message-to-the-blackman-in-america-by-elijah-muhammad). Here's a link to other [Black-owned bookstores](https://nonamebooks.com/Bookstores).
 
-Follow the following steps:
+![Message to the Blackman in America Cover](/images/mttbCover.png)
 
- 1. Clone the [Hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
+#### Back Cover: 
 
-Corresponding pseudo commands:
-
-```shell
-    git clone https://github.com/spf13/hugo
-    cd hugo
-    /path/to/where/you/installed/hugo server --source=./docs
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Press ctrl+c to stop
-```
-
-Once you've gotten here, follow along the rest of this page on your local build.
-
-## Step 3. Change the docs site
-
-Stop the Hugo process by hitting Ctrl+C.
-
-Now we are going to run hugo again, but this time with hugo in watch mode.
-
-```shell
-    /path/to/hugo/from/step/1/hugo server --source=./docs --watch
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Watching for changes in /Users/spf13/Code/hugo/docs/content
-    > Press ctrl+c to stop
-```
-
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
-content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
-
-Content files are found in `docs/content/`. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
-
-Change and save this file.. Notice what happened in your terminal.
-
-```shell
-    > Change detected, rebuilding site
-
-    > 29 pages created
-    > 0 tags index created
-    > in 26 ms
-```
-
-Refresh the browser and observe that the typo is now fixed.
-
-Notice how quick that was. Try to refresh the site before it's finished building. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-## Step 4. Have fun
-
-The best way to learn something is to play with it.
+> "...Most Powerful Blackman in America"\
+\
+"Elijah Muhammad has been able to do what generations of welfare workers and committees and resolutions and reports and housing projects and playgrounds have failed to do...He has done all these things" ~ James Baldwin in his book, **The Fire Next Time**
