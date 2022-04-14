@@ -38,13 +38,26 @@ This books is the result of a unique collaboration between Malcolm X and Alex Ha
 
 ### 3. Akbar Papers in African Psychology 
 
-Much of western psychology is based off of Sigmund Freud's work and that man did not like Black people :( Which is why we need Black scientists studying psychology as primary researchers, instead of trying to build off western psychology. If you want to know yourself better and thus have better relationships and quality of life, know Na'im Akbar's work. You can find his book here: [*Akbar Papers in African Psychology*](https://malikbooks.com/shop/ols/products/akbar-papers-in-african-psychology). I strongly recommend this for anyone with children or ever planning to have children.
+Much of western psychology is based off of Sigmund Freud's work and that man did not like Black people :( Which is why we need Black scientists studying psychology as primary researchers, instead of trying to build off western psychology. If you want to know yourself better and thus have better relationships and quality of life, know Na'im Akbar's work. You can find his book here: [*Akbar Papers in African Psychology*](https://malikbooks.com/shop/ols/products/akbar-papers-in-african-psychology). We strongly recommend this for anyone with children or ever planning to have children.
 
 ![Akbar Books](/images/akbarCover.png)
 
 #### Back Cover:
 
 > Coming Soon! Book is out on loan.
+
+### 4. The Psychology of Self-Hatred and Self-Defeat: Towards a Reclamation of the Afrikan Mind by Amos Wilson
+
+Not only is this an amazing book on psychology. It also a great self help book, that we strongly recommended for any one who has not been feeling as mentally strong lately. Even if that is not you this book is eye opening to the many intricate aspects of the system affecting our psychology that we are unaware of. Na'im Akbar's work is the theory, and Wilson's work explains healthy practices. Find it here: [*The Psychology of Self-Hatred and Self-Defeat*](https://malikbooks.com/shop/ols/products/psychology-of-self-hatred-and-self-defeat-towards-a-reclamation-of-the-afrikan-mind-paperbackby-amos-n-wilson)
+
+### 5. Assata: An Autobiography by Assata Shakur
+
+[*Assata: An Autobiography by Assata Shakur*](https://malikbooks.com/shop/ols/products/assata-an-autobiography-by-assata-shakur)
+
+### 6. Message to the Blackman in America by Elijah Muhammad
+
+This book is the most powerful book on the list. It will change you so make sure that you are ready. Elijah Muhammad was extremely particular with his words and made explicit requests to never alter a word of his original print. 60 years later and predictions from this book are still coming true. It will not all make sense at first, but it is all true. Again make sure to buy Black or POC when looking for [*Message to the Blackman in America*](https://malikbooks.com/shop/ols/products/message-to-the-blackman-in-america-by-elijah-muhammad). Here's a link to other [Black-owned bookstores](https://nonamebooks.com/Bookstores).
+
 
 ***
 

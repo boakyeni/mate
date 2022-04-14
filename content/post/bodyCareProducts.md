@@ -1,23 +1,19 @@
 ---
 date: 2022-03-10
-title: Body Care Products
+title: Great Black Stories
 image: 'dwannini.jpeg'
 ---
+Explore the mind opening stories of our brothers and sisters. From current Haitian immigration to Detroit or European invasion of West African villages, these captivating stories are a must read for all Black people. 
 
-## Move static content to `static`
-Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
-With Jekyll, something that looked like
 
-    ▾ <root>/
-        ▾ images/
-            logo.png
+***
 
-should become
+## 1. *American Street* by Ibi Zoboi
 
-    ▾ <root>/
-        ▾ static/
-            ▾ images/
-                logo.png
+## 2. *Things Fall Apart* by Chinua Achebe
+
+
+ 
 
 Additionally, you'll want any files that should reside at the root (such as `CNAME`) to be moved to `static`.
 
