@@ -19,6 +19,7 @@ This article is for Black men looking to enhance their masculine psyche
 <!--more-->
 
 ***
+> This list is in progress
 
 ### 1. *How to Love a Black Woman: Give and Get the very best in your relationship* by Dr. Ronn Elmore
 
@@ -27,3 +28,7 @@ This article is for Black men looking to enhance their masculine psyche
 ### 2. *Intimate Communion: Awakening your sexual essence* by David Deida
 
 ![Intimate Communion Cover](/images/intComCover.png)
+
+### 3. *All about Love: New Visions*
+
+![All About Love Cover](/images/aalCover.png)

@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
+author = "Mate"
 title = "Books for Balanced Black Men"
 date = "2022-04-05"
-description = "Guide to emoji usage in Hugo"
+description = ""
 tags = ["emoji"]
 image = "osramNeNsoroma.png"
 +++
@@ -11,6 +11,8 @@ image = "osramNeNsoroma.png"
 <!--more-->
 
 ***
+
+>
 
 ### 1. *Midnight: A Ganster Love Story* by Sister Souljah
 
